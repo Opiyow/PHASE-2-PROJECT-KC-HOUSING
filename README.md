@@ -36,6 +36,9 @@ Multiple linear regression  and Random Forest techniques were employed to analys
 Model Precision
 How precise is our model? When our linear regression model makes a prediction of the expected house prices, it is actually precise 69.1% while the Random Forest model is accurate 86.50%.
 
+### Study Limitations
+Our model has generated an overall variable importance but this may not suffice if the interest is to see the relationship between response and the independent features.
+
 ### Observation and Conclusion
 Multiple Linear Regression gives us an adjusted R-squared (testing) score of 0.6903 while the Random Forest adjusted R-squared is 0.8649. A comparison of the two models shows that the Random Forest Regressor has a lower RMSE and higher adjusted R-squared, thus it outperforms the Linear Regression model.
 
