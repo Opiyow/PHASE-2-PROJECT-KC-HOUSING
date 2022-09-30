@@ -46,7 +46,7 @@ Results show that waterfront properties have the highest impact on price. This c
 ##### The bigger square foot the better.
 The value of a home is roughly estimated in price per square foot(above and basement).A home’s usable space (above) however had much more significance than basement space.Livable space is what is most important to buyers and appraisers. In this case, incase the firm is constructing houses for sale, priority should be given to the space above over the basement space.
 
-#### Condition of the House.
+##### Condition of the House.
 #### Model Precision
 Model Precision
 How precise is our model? When our linear regression model makes a prediction of the expected house prices, it is actually precise 69.1% while the Random Forest model is accurate 86.50%.
