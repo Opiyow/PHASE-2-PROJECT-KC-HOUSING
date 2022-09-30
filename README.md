@@ -32,12 +32,25 @@ A correlation matrix was also used to check for correlation between the variable
 ### DATA ANALYSIS
 Multiple linear regression  and Random Forest techniques were employed to analyse the data.
 
-### Model Precision
+### Observation and Conclusion
+Results show that waterfront properties have the highest impact on price. This could be due to the lifestyle that is associated with such properties. The high significance could also be due to the fact Waterfront homes are often cited as "recession-resistant" because the property will usually grow in value and can be less prone to market downturns than nearby landlocked equivalent.
+
+Houses in Very Good Condition had the largest positive impact on Price.Typically, homes that are newer appraise at a higher value.
+
+A home’s usable space (above) however had much more significance than basement space.Livable space is what is most important to buyers and appraisers
+
+### RECOMMENDATIONS
+##### Consider increasing waterfront homes for sale in the portfolio.
+Results show that waterfront properties have the highest impact on price. This could be due to the lifestyle that is associated with such properties. The high significance could also be due to the fact Waterfront homes are often cited as "recession-resistant" because the property will usually grow in value and can be less prone to market downturns than nearby landlocked equivalent
+
+##### The bigger square foot the better.
+The value of a home is roughly estimated in price per square foot(above and basement).A home’s usable space (above) however had much more significance than basement space.Livable space is what is most important to buyers and appraisers. In this case, incase the firm is constructing houses for sale, priority should be given to the space above over the basement space.
+
+#### Condition of the House.
+#### Model Precision
 Model Precision
 How precise is our model? When our linear regression model makes a prediction of the expected house prices, it is actually precise 69.1% while the Random Forest model is accurate 86.50%.
 
-### Study Limitations
-Our model has generated an overall variable importance but this may not suffice if the interest is to see the relationship between response and the independent features.
 
 ### Observation and Conclusion
 Multiple Linear Regression gives us an adjusted R-squared (testing) score of 0.6903 while the Random Forest adjusted R-squared is 0.8649. A comparison of the two models shows that the Random Forest Regressor has a lower RMSE and higher adjusted R-squared, thus it outperforms the Linear Regression model.
